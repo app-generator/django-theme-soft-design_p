@@ -1,4 +1,4 @@
 django
 gunicorn
-django-theme-soft-design==1.0.0
+django-theme-soft-design==1.0.1
 
