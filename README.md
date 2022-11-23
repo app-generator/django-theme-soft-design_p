@@ -1,11 +1,11 @@
-# [Django Theme Soft](https://github.com/app-generator/django-theme-soft-design) `playground`
+# [Django Theme Soft Design](https://github.com/app-generator/django-theme-soft-design) `playground`
 
 Minimal **Django** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
 > Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ Theme: [Django Theme Soft](https://github.com/app-generator/django-theme-soft-design)
+- ✅ Theme: [Django Theme Soft Design](https://github.com/app-generator/django-theme-soft-design)
 
 <br />
 
@@ -93,4 +93,4 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 <br />
 
 ---
-[Django Theme Soft](https://github.com/app-generator/django-theme-soft-design) `playground` - Sample Starter provided by **[AppSeed](https://appseed.us/)**
+[Django Theme Soft Design](https://github.com/app-generator/django-theme-soft-design) `playground` - Sample Starter provided by **[AppSeed](https://appseed.us/)**
