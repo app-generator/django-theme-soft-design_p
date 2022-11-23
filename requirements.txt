@@ -1,3 +1,4 @@
 django
 gunicorn
-django-theme-material-kit==1.0.9
+django-theme-soft-design==1.0.0
+
