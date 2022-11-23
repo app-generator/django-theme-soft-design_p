@@ -17,7 +17,7 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 
 > This material provides `more information` about this library and the `playground project`.
 
-[![Django Theme Material Kit - Video Presentation.](https://user-images.githubusercontent.com/51070104/203492108-48d48000-2ad7-4dec-810a-d633b2c89510.png)](https://www.youtube.com/watch?v=LkFNuotJEUM)
+[![Django Theme Material Kit - Video Presentation.](https://user-images.githubusercontent.com/51070104/203528866-dac347e0-e5f1-40db-8dc7-e08ec01fafc3.png)](https://www.youtube.com/watch?v=sNY_ZwChQNM)
 
 <br />
 
