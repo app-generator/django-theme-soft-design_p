@@ -13,6 +13,14 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 
 <br>
 
+## `Video Presentation`
+
+> This material provides `more information` about this library and the `playground project`.
+
+[![Django Theme Material Kit - Video Presentation.](https://user-images.githubusercontent.com/51070104/203492108-48d48000-2ad7-4dec-810a-d633b2c89510.png)](https://www.youtube.com/watch?v=LkFNuotJEUM)
+
+<br />
+
 ## ✨ Start the app in Docker
 
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
