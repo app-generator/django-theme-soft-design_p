@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.1] 2022-11-24
+### Changes
+
+- Bump [Django Soft Theme](https://github.com/app-generator/django-theme-soft-design) to `1.0.7`
+
 ## [1.0.0] 2022-11-23
 ### Initial Release
 

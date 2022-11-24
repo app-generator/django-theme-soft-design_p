@@ -5,7 +5,7 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 > Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ Theme: [Django Theme Soft Design](https://github.com/app-generator/django-theme-soft-design)
+- ✅ Theme: [Django Soft Design](https://github.com/app-generator/django-theme-soft-design)
 
 <br />
 
